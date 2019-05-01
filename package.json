@@ -1,6 +1,6 @@
 {
   "name": "@virgilioneto/mongoose-wrapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mongoose Wrapper for MongoDB",
   "main": "index.js",
   "scripts": {
